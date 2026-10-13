@@ -94,7 +94,13 @@ A collection of practical AI skills for presentation creation, engineering consu
 
 ## 许可证 | License
 
-本项目尚未添加开源许可证。后续将在核实各项内容的版权和第三方依赖后明确授权范围。
+本项目采用 [MIT License](LICENSE) 开源许可证。
+
+在遵守许可证条款的前提下，你可以自由使用、复制、修改、分发本项目，并将其用于个人或商业用途，但须保留原始版权和许可证声明。
+
+项目中如包含第三方资源或依赖，其使用仍须遵守各自的许可证要求。
+
+This project is licensed under the MIT License. You are free to use, modify, distribute, and use the project commercially, subject to the license terms.
 
 ## 支持项目 | Support
 
