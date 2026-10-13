@@ -1,0 +1,4 @@
+interface:
+  display_name: "图片转为可编辑PPT"
+  short_description: "图片与 PDF 原版重建，混合 PPT 原位替换整页图，干净底图、原生对象与渐变，实际编辑验证"
+  default_prompt: "使用 $image-to-ppt（图片转为可编辑PPT）按原版式重建图片或 PDF，混合 PPT 仅原位替换整页图片版并交回完整文件；复用干净底图与页头，形状渐变用原生填充，默认微软雅黑，逐页对照并在副本上验证编辑。"
